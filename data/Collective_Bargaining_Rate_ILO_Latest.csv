@@ -1,0 +1,93 @@
+,DATAFLOW,REF_AREA,FREQ,MEASURE,TIME_PERIOD,OBS_VALUE,OBS_STATUS,UNIT_MEASURE_TYPE,UNIT_MEASURE,UNIT_MULT,SOURCE,NOTE_SOURCE,NOTE_INDICATOR,NOTE_CLASSIF,DECIMALS,UPPER_BOUND,LOWER_BOUND,country_name
+0,ILO:DF_ILR_CBCT_NOC_RT(1.0),ALB,A,ILR_CBCT_RT,2018,51.1,,RT,PT,0,ADM - Administrative records and related sources,Reference group coverage: Employees,,,1,,,Albania
+1,ILO:DF_ILR_CBCT_NOC_RT(1.0),ARG,A,ILR_CBCT_RT,2018,49.4,,RT,PT,0,"ADM - Estimaciones basadas en Registros del Ministerio de Trabajo, Empleo y Seguridad Social",Reference group coverage: Employees,,,1,,,Argentina
+2,ILO:DF_ILR_CBCT_NOC_RT(1.0),ARM,A,ILR_CBCT_RT,2019,19.4,,RT,PT,0,ADM-RWO - Records from branch republican Unions,Reference group coverage: Employees,,,1,,,Armenia
+3,ILO:DF_ILR_CBCT_NOC_RT(1.0),AUS,A,ILR_CBCT_RT,2018,61.2,,RT,PT,0,ES - Survey of Employee Earnings,Reference group coverage: Employees,Collective bargaining coverage : Adjusted for the right to collective bargaining,,1,,,Australia
+4,ILO:DF_ILR_CBCT_NOC_RT(1.0),AUT,A,ILR_CBCT_RT,2019,98.0,,RT,PT,0,OS - Estimations based on Records from the Austrian Economic Chambers (Wirtschaftskammer),Institutional sector coverage: Private sector only | Reference group coverage: Employees,Collective bargaining coverage : Adjusted for the right to collective bargaining,,1,,,Austria
+5,ILO:DF_ILR_CBCT_NOC_RT(1.0),BEL,A,ILR_CBCT_RT,2019,96.0,,RT,PT,0,ADM - Records from the National Labour Council,Reference group coverage: Employees,,,1,,,Belgium
+6,ILO:DF_ILR_CBCT_NOC_RT(1.0),BGD,A,ILR_CBCT_RT,2020,1.6,,RT,PT,0,OS - Estimations based on administrative data,Reference group coverage: Employees,Collective bargaining coverage : Adjusted for the right to collective bargaining,,1,,,Bangladesh
+7,ILO:DF_ILR_CBCT_NOC_RT(1.0),BGR,A,ILR_CBCT_RT,2016,10.8,,RT,PT,0,ADM-CA - NICA's registry of collective labour agreements,Reference group coverage: Employees,Collective bargaining coverage : Refers only to establishments submitting reports to NICA,,1,,,Bulgaria
+8,ILO:DF_ILR_CBCT_NOC_RT(1.0),BIH,A,ILR_CBCT_RT,2012,50.0,,RT,PT,0,OS - Estimations based on Administrative data,Reference group coverage: Employees,,,1,,,Bosnia and Herzegovina
+9,ILO:DF_ILR_CBCT_NOC_RT(1.0),BLZ,A,ILR_CBCT_RT,2012,9.1,,RT,PT,0,ADM - National Trade Union Congress,Reference group coverage: Employees,,,1,,,Belize
+10,ILO:DF_ILR_CBCT_NOC_RT(1.0),BRA,A,ILR_CBCT_RT,2020,64.8,,RT,PT,0,HS - Pesquisa Nacional por Amostra de Domicílios,"Reference group coverage: Employees, excluding domestic services",,,1,,,Brazil
+11,ILO:DF_ILR_CBCT_NOC_RT(1.0),BWA,A,ILR_CBCT_RT,2020,34.5,,RT,PT,0,OS - Estimations based on administrative data,Reference group coverage: Employees,,,1,,,Botswana
+12,ILO:DF_ILR_CBCT_NOC_RT(1.0),CAN,A,ILR_CBCT_RT,2020,31.3,,RT,PT,0,LFS - Labour Force Survey,Reference group coverage: Employees,,,1,,,Canada
+13,ILO:DF_ILR_CBCT_NOC_RT(1.0),CHE,A,ILR_CBCT_RT,2018,47.7,,RT,PT,0,OS - Estimations based on Administrative data,Reference group coverage: Employees,,,1,,,Switzerland
+14,ILO:DF_ILR_CBCT_NOC_RT(1.0),CHL,A,ILR_CBCT_RT,2018,21.0,,RT,PT,0,ADM - Registros Administrativos de la Dirección del Trabajo,Data reference period: End of the year | Institutional sector coverage: Private sector only | Reference group coverage: Employees,,,1,,,Chile
+15,ILO:DF_ILR_CBCT_NOC_RT(1.0),CHN,A,ILR_CBCT_RT,2017,45.0,,RT,PT,0,ADM-RWO - Records of Workers' Organizations (ACFTU Statistical bulletin),Reference group coverage: Employees,Collective bargaining coverage : Not adjusted for the right to collective bargaining | Collective bargaining coverage : Workers covered by collective contracts. The law mandates the official union to represent workers' interests in a process of collective consultation with employers over wages and other concerns of conditions of work. The legal provisions for collective consultation do not provide for workers or employers to carry out protected industrial action.,,1,,,China
+16,ILO:DF_ILR_CBCT_NOC_RT(1.0),CMR,A,ILR_CBCT_RT,2016,16.5,,RT,PT,0,OS - Estimations based on administrative data,Reference group coverage: Employees,,,1,,,Cameroon
+17,ILO:DF_ILR_CBCT_NOC_RT(1.0),COL,A,ILR_CBCT_RT,2016,15.7,,RT,PT,0,OE - Estimates based on various Administrative Records,Reference group coverage: Employees,,,1,,,Colombia
+18,ILO:DF_ILR_CBCT_NOC_RT(1.0),CRI,A,ILR_CBCT_RT,2020,11.8,,RT,PT,0,ADM - Administrative Records of the Ministry of Labour and Social Security,Reference group coverage: Employees,,,1,,,Costa Rica
+19,ILO:DF_ILR_CBCT_NOC_RT(1.0),CUB,A,ILR_CBCT_RT,2018,76.8,,RT,PT,0,ADM-RWO - Registros de la Central de Trabajadores de Cuba,Reference group coverage: Employees,,,1,,,Cuba
+20,ILO:DF_ILR_CBCT_NOC_RT(1.0),CYP,A,ILR_CBCT_RT,2016,43.3,,RT,PT,0,OS - Estimates based on legislation,Reference group coverage: Employees,,,1,,,Cyprus
+21,ILO:DF_ILR_CBCT_NOC_RT(1.0),CZE,A,ILR_CBCT_RT,2019,32.1,,RT,PT,0,"ADM-CA - Collective agreements by ČMKOS, enterprise and higher-order agreements",Reference group coverage: Employees,Collective bargaining coverage : Adjusted for the right to collective bargaining,,1,,,Czechia
+22,ILO:DF_ILR_CBCT_NOC_RT(1.0),DEU,A,ILR_CBCT_RT,2019,51.8,,RT,PT,0,ES - Establishment Survey,Reference group coverage: Employees,,,1,,,Germany
+23,ILO:DF_ILR_CBCT_NOC_RT(1.0),DNK,A,ILR_CBCT_RT,2018,80.3,,RT,PT,0,ADM-REO - Records of the Danish employers' federation,Reference group coverage: Employees,,,1,,,Denmark
+24,ILO:DF_ILR_CBCT_NOC_RT(1.0),ESP,A,ILR_CBCT_RT,2018,80.1,,RT,PT,0,ADM-CA - Convenios Colectivos de Trabajo,Reference group coverage: Employees,,,1,,,Spain
+25,ILO:DF_ILR_CBCT_NOC_RT(1.0),EST,A,ILR_CBCT_RT,2018,15.0,,RT,PT,0,OS - Estimations based on Working Life Survey and Administrative data for small firms,Reference group coverage: Employees,,,1,,,Estonia
+26,ILO:DF_ILR_CBCT_NOC_RT(1.0),ETH,A,ILR_CBCT_RT,2019,1.0,,RT,PT,0,ADM - Administrative records and related sources,Reference group coverage: Employees,,,1,,,Ethiopia
+27,ILO:DF_ILR_CBCT_NOC_RT(1.0),FIN,A,ILR_CBCT_RT,2018,89.2,,RT,PT,0,ADM - Records of the Ministry of Social Affairs and Health,Reference group coverage: Employees,,,1,,,Finland
+28,ILO:DF_ILR_CBCT_NOC_RT(1.0),FRA,A,ILR_CBCT_RT,2018,98.0,,RT,PT,0,"ADM - Fichiers de la Direction de l'animation de la recherche, des études et des statistiques",Reference group coverage: Employees,,,1,,,France
+29,ILO:DF_ILR_CBCT_NOC_RT(1.0),GBR,A,ILR_CBCT_RT,2019,26.9,,RT,PT,0,LFS - Labour Force Survey,Reference group coverage: Employees,Collective bargaining coverage : Adjusted for the right to collective bargaining,,1,,,United Kingdom
+30,ILO:DF_ILR_CBCT_NOC_RT(1.0),GEO,A,ILR_CBCT_RT,2020,14.4,,RT,PT,0,ADM-RWO - Georgian Trade Union Confederation Records,Reference group coverage: Employees,,,1,,,Georgia
+31,ILO:DF_ILR_CBCT_NOC_RT(1.0),GHA,A,ILR_CBCT_RT,2020,38.4,,RT,PT,0,OE - Estimates based on various Sources,Reference group coverage: Employees,,,1,,,Ghana
+32,ILO:DF_ILR_CBCT_NOC_RT(1.0),GRC,A,ILR_CBCT_RT,2018,25.8,,RT,PT,0,Other - Special data collection,Reference group coverage: Employees,Collective bargaining coverage : Excluding agreements negotiated by associations of persons,,1,,,Greece
+33,ILO:DF_ILR_CBCT_NOC_RT(1.0),HND,A,ILR_CBCT_RT,2016,1.9,,RT,PT,0,HS - Encuesta Permanente de Hogares de Propósitos Múltiples,Reference group coverage: Employees,,,1,,,Honduras
+34,ILO:DF_ILR_CBCT_NOC_RT(1.0),HRV,A,ILR_CBCT_RT,2016,46.7,,RT,PT,0,OE - Trade union membership and collective bargaining coverage estimations,Reference group coverage: Employees,,,1,,,Croatia
+35,ILO:DF_ILR_CBCT_NOC_RT(1.0),HUN,A,ILR_CBCT_RT,2019,17.8,,RT,PT,0,ADM - Records of the Ministry of Social Affairs and Labour,Reference group coverage: Employees,,,1,,,Hungary
+36,ILO:DF_ILR_CBCT_NOC_RT(1.0),IRL,A,ILR_CBCT_RT,2014,33.5,,RT,PT,0,OS - Estimations based on Administrative data and information from the National Economic and Social Council,Reference group coverage: Employees,,,1,,,Ireland
+37,ILO:DF_ILR_CBCT_NOC_RT(1.0),ISL,A,ILR_CBCT_RT,2019,90.0,,RT,PT,0,OS - Estimations based on Administrative data,Reference group coverage: Employees,,,1,,,Iceland
+38,ILO:DF_ILR_CBCT_NOC_RT(1.0),ISR,A,ILR_CBCT_RT,2016,28.0,,RT,PT,0,HS - Social Survey,Reference group coverage: Employees,,,1,,,Israel
+39,ILO:DF_ILR_CBCT_NOC_RT(1.0),ITA,A,ILR_CBCT_RT,2019,99.0,,RT,PT,0,OS - Estimations based on Administrative data and type of contracts,Reference group coverage: Employees,Collective bargaining coverage : Adjusted for the right to collective bargaining,,1,,,Italy
+40,ILO:DF_ILR_CBCT_NOC_RT(1.0),JPN,A,ILR_CBCT_RT,2019,16.8,,RT,PT,0,OS - Estimations based on Administrative data on enterprise bargaining,Reference group coverage: Employees,,,1,,,Japan
+41,ILO:DF_ILR_CBCT_NOC_RT(1.0),KAZ,A,ILR_CBCT_RT,2012,74.7,,RT,PT,0,LFS - Sample Survey of Employment,Reference group coverage: Employees,,,1,,,Kazakhstan
+42,ILO:DF_ILR_CBCT_NOC_RT(1.0),KEN,A,ILR_CBCT_RT,2019,9.7,,RT,PT,0,OS - Estimations based on administrative data,Reference group coverage: Employees,,,1,,,Kenya
+43,ILO:DF_ILR_CBCT_NOC_RT(1.0),KHM,A,ILR_CBCT_RT,2020,1.3,,RT,PT,0,OS - Estimations based on administrative data,Reference group coverage: Employees,,,1,,,Cambodia
+44,ILO:DF_ILR_CBCT_NOC_RT(1.0),KOR,A,ILR_CBCT_RT,2019,15.6,,RT,PT,0,OS - Estimations based on Administrative data on enterprise bargaining,Reference group coverage: Employees,,,1,,,"Korea, Republic of"
+45,ILO:DF_ILR_CBCT_NOC_RT(1.0),LKA,A,ILR_CBCT_RT,2019,3.2,,RT,PT,0,ADM - Labour Statistics,Reference group coverage: Employees,,,1,,,Sri Lanka
+46,ILO:DF_ILR_CBCT_NOC_RT(1.0),LTU,A,ILR_CBCT_RT,2019,7.4,,RT,PT,0,OS - Estimations based on Administrative data on enterprise bargaining,Reference group coverage: Employees,,,1,,,Lithuania
+47,ILO:DF_ILR_CBCT_NOC_RT(1.0),LUX,A,ILR_CBCT_RT,2014,55.0,,RT,PT,0,OS - Estimations based on Administrative data,Reference group coverage: Employees,,,1,,,Luxembourg
+48,ILO:DF_ILR_CBCT_NOC_RT(1.0),LVA,A,ILR_CBCT_RT,2019,27.3,,RT,PT,0,ADM-RWO - Free Trade Union Confederation of Latvia and Trade Union's Organizations Records,Reference group coverage: Employees,,,1,,,Latvia
+49,ILO:DF_ILR_CBCT_NOC_RT(1.0),MAR,A,ILR_CBCT_RT,2020,3.0,,RT,PT,0,ADM - Autres fichiers administratifs et sources connexes (Relations professionnelles),Reference group coverage: Employees,Collective bargaining coverage : Adjusted for the right to collective bargaining,,1,,,Morocco
+50,ILO:DF_ILR_CBCT_NOC_RT(1.0),MDA,A,ILR_CBCT_RT,2020,43.0,,RT,PT,0,ADM-RWO - Records of the National Trade Union Confederation of Moldova,Reference group coverage: Employees,,,1,,,"Moldova, Republic of"
+51,ILO:DF_ILR_CBCT_NOC_RT(1.0),MEX,A,ILR_CBCT_RT,2019,10.4,,RT,PT,0,ADM - Registros Administrativos de la Secretaría del Trabajo y Previsión Social,Reference group coverage: Employees,,,1,,,Mexico
+52,ILO:DF_ILR_CBCT_NOC_RT(1.0),MKD,A,ILR_CBCT_RT,2013,49.0,,RT,PT,0,ADM - Administrative Source,Reference group coverage: Employees,,,1,,,North Macedonia
+53,ILO:DF_ILR_CBCT_NOC_RT(1.0),MLT,A,ILR_CBCT_RT,2012,41.8,,RT,PT,0,ADM - Records of the Department of Industrial and Employment Relations,Reference group coverage: Employees,,,1,,,Malta
+54,ILO:DF_ILR_CBCT_NOC_RT(1.0),MUS,A,ILR_CBCT_RT,2018,40.0,,RT,PT,0,ADM - Records of Workers' and employers' Organizations,Reference group coverage: Employees,,,1,,,Mauritius
+55,ILO:DF_ILR_CBCT_NOC_RT(1.0),MWI,A,ILR_CBCT_RT,2013,18.1,,RT,PT,0,LFS - Labour Force Survey,Reference group coverage: Employees,,,1,,,Malawi
+56,ILO:DF_ILR_CBCT_NOC_RT(1.0),MYS,A,ILR_CBCT_RT,2018,0.4,,RT,PT,0,OS - Estimations based on Administrative data,Reference group coverage: Employees,,,1,,,Malaysia
+57,ILO:DF_ILR_CBCT_NOC_RT(1.0),NAM,A,ILR_CBCT_RT,2020,40.9,,RT,PT,0,OS - Estimations based on administrative data,Reference group coverage: Employees,,,1,,,Namibia
+58,ILO:DF_ILR_CBCT_NOC_RT(1.0),NIC,A,ILR_CBCT_RT,2020,6.7,,RT,PT,0,ADM - Registros de la Dirección de Derechos Colectivos e Inspectorías departamentales,Reference group coverage: Employees,,,1,,,Nicaragua
+59,ILO:DF_ILR_CBCT_NOC_RT(1.0),NLD,A,ILR_CBCT_RT,2019,75.6,,RT,PT,0,ADM - Records of the Ministry of Social Affairs and Employment,Reference group coverage: Employees,,,1,,,Netherlands
+60,ILO:DF_ILR_CBCT_NOC_RT(1.0),NOR,A,ILR_CBCT_RT,2017,69.0,,RT,PT,0,ADM - Records of associations of wage earners and employers' associations,Reference group coverage: Employees,,,1,,,Norway
+61,ILO:DF_ILR_CBCT_NOC_RT(1.0),NZL,A,ILR_CBCT_RT,2020,18.6,,RT,PT,0,"ADM - Records of the Department of Business, Innovation and Employment",Reference group coverage: Employees,,,1,,,New Zealand
+62,ILO:DF_ILR_CBCT_NOC_RT(1.0),PAN,A,ILR_CBCT_RT,2017,2.0,,RT,PT,0,OE - Estimates based on various Sources,Reference group coverage: Employees,Reference period of collective bargaining coverage: Workers covered by collective bargaining agreements registered during the year of observation,,1,,,Panama
+63,ILO:DF_ILR_CBCT_NOC_RT(1.0),PER,A,ILR_CBCT_RT,2020,2.6,,RT,PT,0,ADM - Planillas Electrónicas,Reference group coverage: Employees,,,1,,,Peru
+64,ILO:DF_ILR_CBCT_NOC_RT(1.0),PHL,A,ILR_CBCT_RT,2018,1.4,,RT,PT,0,ES - Integrated Survey ,Reference group coverage: Employees,,,1,,,Philippines
+65,ILO:DF_ILR_CBCT_NOC_RT(1.0),POL,A,ILR_CBCT_RT,2015,17.2,,RT,PT,0,ADM-LIR - National Labour Inspectorate Administrative Records,Reference group coverage: Employees,,,1,,,Poland
+66,ILO:DF_ILR_CBCT_NOC_RT(1.0),PRT,A,ILR_CBCT_RT,2018,76.5,,RT,PT,0,ADM-CA - Registros da Direcção-Geral do Emprego e das Relações de Trabalho,Reference group coverage: Employees,Collective bargaining coverage : Adjusted for the right to collective bargaining,,1,,,Portugal
+67,ILO:DF_ILR_CBCT_NOC_RT(1.0),PRY,A,ILR_CBCT_RT,2016,0.7,,RT,PT,0,ADM - Otros registros administrativos y fuentes relacionadas,Reference group coverage: Employees,,,1,,,Paraguay
+68,ILO:DF_ILR_CBCT_NOC_RT(1.0),ROU,A,ILR_CBCT_RT,2017,15.0,,RT,PT,0,OS - Estimations based on number and type of collective agreements in force,Reference group coverage: Employees,,,1,,,Romania
+69,ILO:DF_ILR_CBCT_NOC_RT(1.0),RUS,A,ILR_CBCT_RT,2019,28.5,,RT,PT,0,OS - Estimations based on Administrative data,Reference group coverage: Employees,,,1,,,Russian Federation
+70,ILO:DF_ILR_CBCT_NOC_RT(1.0),RWA,A,ILR_CBCT_RT,2019,5.7,,RT,PT,0,OS - Estimations based on administrative data,Reference group coverage: Employees,,,1,,,Rwanda
+71,ILO:DF_ILR_CBCT_NOC_RT(1.0),SEN,A,ILR_CBCT_RT,2019,10.1,,RT,PT,0,OE - Estimates based on various Sources,Reference group coverage: Employees,,,1,,,Senegal
+72,ILO:DF_ILR_CBCT_NOC_RT(1.0),SGP,A,ILR_CBCT_RT,2012,18.1,,RT,PT,0,OS - Estimations based on Administrative data,Reference group coverage: Employees,,,1,,,Singapore
+73,ILO:DF_ILR_CBCT_NOC_RT(1.0),SLV,A,ILR_CBCT_RT,2018,4.6,,RT,PT,0,OE - Estimates based on various Sources,Reference group coverage: Employees,,,1,,,El Salvador
+74,ILO:DF_ILR_CBCT_NOC_RT(1.0),SRB,A,ILR_CBCT_RT,2010,55.0,,RT,PT,0,OS - Estimations based on Administrative data,Reference group coverage: Employees,,,1,,,Serbia
+75,ILO:DF_ILR_CBCT_NOC_RT(1.0),SVK,A,ILR_CBCT_RT,2019,22.4,,RT,PT,0,ADM-LIR - Administrative data from the National Labour Inspectorate,Reference group coverage: Employees,,,1,,,Slovakia
+76,ILO:DF_ILR_CBCT_NOC_RT(1.0),SVN,A,ILR_CBCT_RT,2016,70.9,,RT,PT,0,ADM - Administrative records and related sources,Reference group coverage: Employees,,,1,,,Slovenia
+77,ILO:DF_ILR_CBCT_NOC_RT(1.0),SWE,A,ILR_CBCT_RT,2019,90.0,,RT,PT,0,ADM - Records of the National Mediation Office,Reference group coverage: Employees,,,1,,,Sweden
+78,ILO:DF_ILR_CBCT_NOC_RT(1.0),SWZ,A,ILR_CBCT_RT,2016,28.4,,RT,PT,0,LFS - Labour Force Survey,Reference group coverage: Employees,,,1,,,Eswatini
+79,ILO:DF_ILR_CBCT_NOC_RT(1.0),TGO,A,ILR_CBCT_RT,2019,23.8,,RT,PT,0,OS - Estimations based on administrative data,Reference group coverage: Employees,,,1,,,Togo
+80,ILO:DF_ILR_CBCT_NOC_RT(1.0),THA,A,ILR_CBCT_RT,2020,1.1,,RT,PT,0,Other - Special data collection,Reference group coverage: Employees,,,1,,,Thailand
+81,ILO:DF_ILR_CBCT_NOC_RT(1.0),TTO,A,ILR_CBCT_RT,2020,19.87,,RT,PT,0,OS - Estimations based on administrative data,Reference group coverage: Employees,,,1,,,Trinidad and Tobago
+82,ILO:DF_ILR_CBCT_NOC_RT(1.0),TUN,A,ILR_CBCT_RT,2019,62.9,,RT,PT,0,ADM - Autres fichiers administratifs et sources connexes,Reference group coverage: Employees,,,1,,,Tunisia
+83,ILO:DF_ILR_CBCT_NOC_RT(1.0),TUR,A,ILR_CBCT_RT,2019,7.4,,RT,PT,0,ADM - Records from the Ministry of Labour and Social Security,Reference group coverage: Employees,,,1,,,Turkey
+84,ILO:DF_ILR_CBCT_NOC_RT(1.0),UGA,A,ILR_CBCT_RT,2019,30.2,,RT,PT,0,OS - Estimations based on administrative data,Reference group coverage: Employees,Collective bargaining coverage : Adjusted for the right to collective bargaining,,1,,,Uganda
+85,ILO:DF_ILR_CBCT_NOC_RT(1.0),UKR,A,ILR_CBCT_RT,2020,40.2,,RT,PT,0,ES - Survey of enterprises on matters pertaining to labor statistics,Reference group coverage: Employees,,,1,,,Ukraine
+86,ILO:DF_ILR_CBCT_NOC_RT(1.0),URY,A,ILR_CBCT_RT,2018,94.7,,RT,PT,0,LFS - Encuesta Continua de Hogares,Reference group coverage: Employees,,,1,,,Uruguay
+87,ILO:DF_ILR_CBCT_NOC_RT(1.0),USA,A,ILR_CBCT_RT,2020,12.1,,RT,PT,0,LFS - Current Population Survey,Reference group coverage: Employees,,,1,,,United States
+88,ILO:DF_ILR_CBCT_NOC_RT(1.0),VEN,A,ILR_CBCT_RT,2016,23.4,,RT,PT,0,ADM-LIR - Registros del Ministerio del Poder Popular para el Trabajo y Seguridad Social,Reference group coverage: Employees,,,1,,,"Venezuela, Bolivarian Republic of"
+89,ILO:DF_ILR_CBCT_NOC_RT(1.0),VNM,A,ILR_CBCT_RT,2018,24.5,,RT,PT,0,OS - Estimations based on administrative data,Reference group coverage: Employees,,,1,,,Viet Nam
+90,ILO:DF_ILR_CBCT_NOC_RT(1.0),ZAF,A,ILR_CBCT_RT,2019,30.1,,RT,PT,0,LFS - Quarterly Labour Force Survey,Reference group coverage: Employees,,,1,,,South Africa
+91,ILO:DF_ILR_CBCT_NOC_RT(1.0),ZMB,A,ILR_CBCT_RT,2020,27.6,,RT,PT,0,LFS - Labour Force Survey,Reference group coverage: Employees,,,1,,,Zambia
