@@ -33,4 +33,4 @@ df = pd.read_csv('https://www.ilo.org/sdmx/rest/data/ILO,DF_ILR_CBCT_NOC_RT/?for
 country_codes = {country.alpha_3: country.name for country in pycountry.countries}
 df['country_name'] = df['REF_AREA'].map(country_codes)
 df_new = df.pivot(index='country_name', columns='TIME_PERIOD', values='OBS_VALUE')
-df.to_csv('data/Collective_Bargaining_Rate_ILO_All_Years.csv', index=True)
+df_new.to_csv('data/Collective_Bargaining_Rate_ILO_All_Years.csv', index=True)
