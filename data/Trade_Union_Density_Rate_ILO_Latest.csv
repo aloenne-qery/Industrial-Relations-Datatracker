@@ -54,8 +54,8 @@
 52,ILO:DF_ILR_TUMT_NOC_RT(1.0),HUN,A,ILR_TUMT_RT,2019,8.65,,RT,PT,0,"OS - Estimations based on Administrative data, union confederations' self-reported membership and LFS data",,Trade union membership coverage : Adjusted for the right to unionize,,1,,,Hungary
 53,ILO:DF_ILR_TUMT_NOC_RT(1.0),IDN,A,ILR_TUMT_RT,2019,12.99,,RT,PT,0,OS - Estimations based on Administrative data,,,,1,,,Indonesia
 54,ILO:DF_ILR_TUMT_NOC_RT(1.0),IND,A,ILR_TUMT_RT,2017,19.801,,RT,PT,0,OS - Estimations based on the Employment-Unemployment Surveys,,,,1,,,India
-55,ILO:DF_ILR_TUMT_NOC_RT(1.0),IRL,A,ILR_TUMT_RT,2020,25.395,,RT,PT,0,LFS - Quarterly National Household Survey,,Trade union membership coverage : Adjusted for the right to unionize,,1,,,Ireland
-56,ILO:DF_ILR_TUMT_NOC_RT(1.0),ISL,A,ILR_TUMT_RT,2019,91.423,,RT,PT,0,LFS - Labour Force Survey,,Trade union membership coverage : Adjusted for the right to unionize,,1,,,Iceland
+55,ILO:DF_ILR_TUMT_NOC_RT(1.0),IRL,A,ILR_TUMT_RT,2020,25.395,,RT,PT,0,LFS - EU Labour Force Survey,,Trade union membership coverage : Adjusted for the right to unionize,,1,,,Ireland
+56,ILO:DF_ILR_TUMT_NOC_RT(1.0),ISL,A,ILR_TUMT_RT,2019,91.423,,RT,PT,0,LFS - EU Labour Force Survey,,Trade union membership coverage : Adjusted for the right to unionize,,1,,,Iceland
 57,ILO:DF_ILR_TUMT_NOC_RT(1.0),ISR,A,ILR_TUMT_RT,2017,25.089,,RT,PT,0,HS - Social Survey,,,,1,,,Israel
 58,ILO:DF_ILR_TUMT_NOC_RT(1.0),ITA,A,ILR_TUMT_RT,2019,32.497,,RT,PT,0,ADM - Administrative Records,,Trade union membership coverage : Adjusted for the right to unionize,,1,,,Italy
 59,ILO:DF_ILR_TUMT_NOC_RT(1.0),JPN,A,ILR_TUMT_RT,2019,16.802,,RT,PT,0,ES - Basic Survey on Labour Unions,,Trade union membership coverage : Adjusted for the right to unionize,,1,,,Japan
@@ -112,7 +112,7 @@
 110,ILO:DF_ILR_TUMT_NOC_RT(1.0),SRB,A,ILR_TUMT_RT,2010,33.28,,RT,PT,0,ADM-RWO - Trade unions records,,,,1,,,Serbia
 111,ILO:DF_ILR_TUMT_NOC_RT(1.0),SVK,A,ILR_TUMT_RT,2019,11.084,,RT,PT,0,ADM - Trade unions records,,Trade union membership coverage : Adjusted for the right to unionize,,1,,,Slovakia
 112,ILO:DF_ILR_TUMT_NOC_RT(1.0),SVN,A,ILR_TUMT_RT,2016,26.9,,RT,PT,0,ADM - Administrative records and related sources,,,,1,,,Slovenia
-113,ILO:DF_ILR_TUMT_NOC_RT(1.0),SWE,A,ILR_TUMT_RT,2019,65.213,,RT,PT,0,LFS - Labour Force Survey,,Trade union membership coverage : Adjusted for the right to unionize,,1,,,Sweden
+113,ILO:DF_ILR_TUMT_NOC_RT(1.0),SWE,A,ILR_TUMT_RT,2019,65.213,,RT,PT,0,LFS - EU Labour Force Survey,,Trade union membership coverage : Adjusted for the right to unionize,,1,,,Sweden
 114,ILO:DF_ILR_TUMT_NOC_RT(1.0),SWZ,A,ILR_TUMT_RT,2016,23.879,,RT,PT,0,LFS - Labour Force Survey,,,,1,,,Eswatini
 115,ILO:DF_ILR_TUMT_NOC_RT(1.0),SYC,A,ILR_TUMT_RT,2011,2.041,,RT,PT,0,LFS - Labour Force Survey,,,,1,,,Seychelles
 116,ILO:DF_ILR_TUMT_NOC_RT(1.0),TGO,A,ILR_TUMT_RT,2019,23.81,,RT,PT,0,OS - Estimations based on administrative data,,,,1,,,Togo
